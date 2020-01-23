@@ -1,34 +1,33 @@
 {
-    "name": "node-generator",
-    "version": "1.0.0",
-    "description": "Chuck's Developer Profile Generator that generates pdfs from Github profiles.",
-    "main": "index.js",
-    "scripts": {
-      "test": "node index.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ccotheceo/node-generator.git"
-    },
-    "keywords": [
-      "developer",
-      "profile",
-      "pdf",
-      "generator",
-      "github",
-      "project",
-      "bootcamp"
-    ],
-    "author": "Chuck",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ccotheceo/node-generator.git/issues"
-    },
-    "homepage": "https://github.com/ccotheceo/node-generator.git#readme",
-    "dependencies": {
-      "axios": "^0.19.1",
-      "inquirer": "^7.0.3",
-      "puppeteer": "^2.0.0"
-    }
+  "name": "node-generator",
+  "version": "1.0.0",
+  "description": "Chuck's Developer Profile Generator that generates pdfs from Github profiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccotheceo/node-generator.git"
+  },
+  "keywords": [
+    "developer",
+    "profile",
+    "pdf",
+    "generator",
+    "github",
+    "project",
+    "bootcamp"
+  ],
+  "author": "Chuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccotheceo/node-generator.git/issues"
+  },
+  "homepage": "https://github.com/ccotheceo/node-generator.git#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "inquirer": "^7.0.3",
+    "puppeteer": "^2.0.0"
   }
-  
+}
