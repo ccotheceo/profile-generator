@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/ccotheceo/node-generator.git#readme",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "inquirer": "^7.0.3",
     "puppeteer": "^2.0.0"
   }
